@@ -16,7 +16,6 @@ The API Lambda sends messages to SQS while the worker Lambda processes the job i
 ---
 
 ## Project Structure
-
 sst-sqs-demo
 ├── stacks
 │   └── ApiStack.ts
@@ -27,7 +26,11 @@ sst-sqs-demo
 │           └── worker.ts
 ├── sst.config.ts
 ├── package.json
+├── tsconfig.json
+├── .gitignore
 └── README.md
+
+
 
 ---
 
