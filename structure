@@ -1,0 +1,13 @@
+sst-sqs-demo
+├── stacks
+│   └── ApiStack.ts
+├── packages
+│   └── functions
+│       └── src
+│           ├── sendJob.ts
+│           └── worker.ts
+├── sst.config.ts
+├── package.json
+├── tsconfig.json
+├── .gitignore
+└── README.md
